@@ -1,0 +1,6 @@
+it is suggested to use images that does not have any transparency, this cause it to goes wacky
+
+scraped:
+- blue prisoner
+- cropped prisoner
+- slot lock

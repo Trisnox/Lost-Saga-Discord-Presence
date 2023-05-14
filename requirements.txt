@@ -1,0 +1,7 @@
+Pillow
+numpy
+pydirectinput
+pyautogui
+pynput
+pytesseract
+pypresence

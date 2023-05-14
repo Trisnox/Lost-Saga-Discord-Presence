@@ -1,0 +1,6 @@
+{
+    "tesseract_loc": "C:\\Program Files\\Tesseract-OCR\\tesseract.exe",
+    "interval": 30,
+    "username": "Username",
+    "precision": 80
+}
